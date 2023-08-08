@@ -1,0 +1,25 @@
+.title{
+    background-color: greenyellow;
+}
+table,th,td{
+border: 1px solid #d44659;
+padding: 4px;
+}
+img {
+    display: block;
+    max-width: 200px;
+    margin: 20px auto;
+    margin-bottom: 20px;
+    margin-left: 80px;
+  }
+table{
+margin-right: auto;
+margin-left: auto;
+    width: 460px;
+}
+h1,h2,h3{
+  text-align: center; 
+}
+.container{
+    background-color: rgb(157, 201, 201);
+}
